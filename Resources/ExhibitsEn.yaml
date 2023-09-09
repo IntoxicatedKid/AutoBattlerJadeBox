@@ -1,0 +1,4 @@
+TASBot:
+  Description: "{PlayerName} may only draw up to {Value1} cards each turn.\nAt the start of {PlayerName}'s turn, play all cards in the hand and any card enters the hand. Cards with X Costs will spend all mana. Then, end the turn.\nWhen |Spell Card| is usable and {PlayerName} would be defeated, heal to 20% of maximum life instead. Then, gain |Flawless| for 1 turn and activates her |Spell Card|.\n{PlayerName} is immune to |Fox Charm|."
+  Name: TASBot
+  FlavorText: "TASBot can play games on real video game consoles with superhuman abilities, usually leading to game breaking glitches in front of live audiences."

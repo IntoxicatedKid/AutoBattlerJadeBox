@@ -1,0 +1,7 @@
+{
+    "name": "Auto_Battler_Jade_Box",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/IntoxicatedKid/AutoBattlerJadeBox",
+    "description": "Adds a Jade Box option that makes combats (semi)automatic.",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100", "TeamNeo-Sideloader-0.7.5" ]
+}
